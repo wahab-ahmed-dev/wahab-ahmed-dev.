@@ -1,33 +1,40 @@
-# Hi I'm Wahab Ahmed
+# Hi 👋 I'm Wahab Ahmed
 
-🚀 MERN Stack Developer passionate about building scalable web applications.
+🚀 Full Stack Developer (MERN)
+
+I build modern, scalable web applications using React, Next.js, Node.js and MongoDB.
 
 ## 💻 Tech Stack
 
-Frontend
+### Frontend
 - React.js
 - Next.js
 - Tailwind CSS
 
-Backend
+### Backend
 - Node.js
 - Express.js
 
-Database
+### Database
 - MongoDB
 
-Tools
+### Tools
 - Git
 - GitHub
+- VS Code
 
-## 📌 Projects
+## 📂 Featured Project
 
-- MERN SaaS Dashboard
-- E-commerce Platform
-- Task Manager App
-- Blog Platform
+### Online Quiz Testing System
+A modern quiz and assessment platform built with Next.js.
+
+🔗 Repo:
+https://github.com/wahab-ahmed-dev/online-quiz-testing-system
 
 ## 🌐 Connect With Me
 
-- LinkedIn
-- GitHub
+LinkedIn  
+https://www.linkedin.com/in/wahab-ahmed-0a55b6403
+
+GitHub  
+https://github.com/wahab-ahmed-dev
